@@ -20,7 +20,7 @@ Este proyecto es una práctica de **CSS** enfocada en la maquetación de un **St
 2. Abre el archivo `index.html` en tu navegador favorito.
 
 ## Vista Previa 🖼️
-Si quieres ver cómo luce el proyecto en acción, te dejo el [link con el demo](https://stream-deck-practice.netlify.app/), ademas una captura de pantalla:
+Si quieres ver cómo luce el proyecto en acción, te dejo el [link con el demo](https://stream-deck-practice.vercel.app/), ademas una captura de pantalla:
 ![stream deck](https://github.com/user-attachments/assets/32248949-61b6-4388-8753-b7df920740cc)
 
 
