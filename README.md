@@ -21,7 +21,8 @@ Este proyecto es una práctica de **CSS** enfocada en la maquetación de un **St
 
 ## Vista Previa 🖼️
 Si quieres ver cómo luce el proyecto en acción, te dejo el [link con el demo](https://stream-deck-practice.netlify.app/), ademas una captura de pantalla:
-![Vista previa del proyecto](https://via.placeholder.com/800x400.png?text=Captura+de+Pantalla+del+Proyecto)
+![stream deck](https://github.com/user-attachments/assets/32248949-61b6-4388-8753-b7df920740cc)
+
 
 
 ## Autor ✍️
