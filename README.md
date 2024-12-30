@@ -28,5 +28,5 @@ Si quieres ver cómo luce el proyecto en acción, te dejo el [link con el demo](
 Este proyecto fue creado por **Emilse Arias**. Espero que te sirva de inspiración o aprendizaje. ¡Gracias por visitar! 😄
 
 ## ¡Dame una Estrella! ⭐
-Si te gustó este proyecto, no olvides darle una estrella en [GitHub](https://github.com/emiarias/Stream-deck-practice). Tu apoyo significa mucho. ¡Gracias! 🌟
+Si te gustó este proyecto, no olvides darle una estrella en [GitHub](https://github.com/emiarias/stream-deck-practice). Tu apoyo significa mucho. ¡Gracias! 🌟
 
