@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Poetsen+One&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #191919;
+  color: #8e8e8e;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  font-family: "Raleway", sans-serif;
+}
+
+footer {
+  text-align: center;
+}
+
+footer {
+  padding: 30px 0px;
+  background-color: #111111;
+}
+
+footer a {
+  color: #8e8e8e;
+}
+
+main {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.streamDeck {
+  width: 450px;
+  height: 350px;
+  background-color: #131313;
+  border-radius: 15px;
+  box-shadow: 1px 3px 19px 6px #272727;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.title{
+    width: 100%;
+    text-align: center;
+}
+
+.key {
+  width: 60px;
+  height: 60px;
+  background-color: #252424;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 5px #7bacff, 0 0 10px #7bacff, 0 0 15px #7bacff;
+  font-size: 30px;
+  color: white;
+}
+
+.streamDeck .key:nth-of-type(1) {
+    background-color: #df2525; 
+}
+.streamDeck .key:nth-of-type(2), .streamDeck .key:nth-of-type(3)  {
+    background-color: #703ae5; 
+}
+
+.streamDeck .key:nth-of-type(4) {
+    background-color: #df6025; 
+}
+.streamDeck .key:nth-of-type(5) {
+    background-color: #1c2aa8; 
+}
+.streamDeck .key:nth-of-type(6) {
+    background-color: #2a88d5; 
+}
+.streamDeck .key:nth-of-type(8) {
+    background-color: #2a88d5; 
+}
+.streamDeck .key:nth-of-type(9) {
+    background-color: #3fbfd6; 
+}
+.streamDeck .key:nth-of-type(13) {
+    background-color: #394298; 
+}
+.streamDeck .key:nth-of-type(14) {
+    background-color: #1c2aa8; 
+}
+.streamDeck .key:nth-of-type(15) {
+    background-color: #0f8f5a; 
+}
